@@ -1,5 +1,9 @@
 # PruebaTecnica fusepong
 
+Al clonar el repositorio se debe instalar las dependencias con el comando "npm run dev"
+
+posterior a esto vas a poder correr la aplicacion con el comando "ng serve"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
 ## Development server
